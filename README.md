@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👯 I’m looking to collaborate on DevOps
-🤔 I’m looking for help with 
-💬 Ask me about coding
-📫 How to reach me: haronmunenemuriuki@gmail.com
+
