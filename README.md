@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Haron Munene a software developer.
-
+A dedicated and enthusiastic software developer with a boundless passion for exploring the vast world of development tools and technologies. I believe that the beauty of software development lies in its endless possibilities, and I am driven by an unwavering desire to push boundaries and create advanced applications that make a meaningful impact.
 <!--
 **haronmunene/haronmunene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 3. 🤔 I’m looking for help with **Devops**
 4. 💬 Ask me about **Devops**
 5. 📫 How to reach me ***Haronmunenemuriuki@gmail.com**
-# connect with me 
+# Connect with me 
